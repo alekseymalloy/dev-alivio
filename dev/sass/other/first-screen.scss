@@ -1,0 +1,37 @@
+.first-screen {
+    min-height: 901px;
+    background-image: url(assets/img/first-screen.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 181px 0;
+
+}
+
+.first-screen__title {
+    font-family: Georgia;
+    font-style: normal;
+    font-weight: bold;
+    color: $brand-primary;
+    font-size: 65px;
+    line-height: 74px;
+    max-width: 440px;
+    margin-bottom: 35px;
+}
+
+.first-screen__subtitle {
+    color: $content-text;
+    max-width: 420px;
+    margin-bottom: 48px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21px;
+    line-height: 29px;
+}
+
+.btn_screen {
+    width: 227px;
+    height: 65px;
+    border-radius: 4px;
+}

@@ -1,0 +1,45 @@
+@media (min-width:970px) {
+    .how-it-work {
+        ol {
+            &.row {
+                margin: 0 -47.5px
+            }
+        }
+
+        .item {
+
+            padding: 0 47.5px;
+
+            &:nth-child(2) {
+                margin-top: 260px
+            }
+
+            &:nth-child(3) {
+                margin-top: 175px
+            }
+
+            &:nth-child(3n+1) {
+                position: relative;
+                top: -132px;
+
+            }
+
+            &:first-child {
+                position: relative;
+                top: 97px;
+
+            }
+
+            &:nth-child(3n-6) {
+                position: relative;
+
+                top: -132px
+            }
+
+            &:nth-child(3n+2) {
+                position: relative;
+
+            }
+        }
+    }
+}

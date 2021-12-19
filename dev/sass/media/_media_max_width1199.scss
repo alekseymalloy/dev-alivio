@@ -1,0 +1,19 @@
+@media screen and (max-width: 1199px) {
+    header .collapse {
+        margin-left: 24px;
+    }
+    header .nav-item {
+        margin-left: 12px;
+    }
+    .nav {
+        display: flex;
+        justify-content: center;
+        flex-wrap: nowrap;
+    }
+    .navbar {
+        position: relative;
+        display: flex;
+        flex-wrap: nowrap;
+    }
+
+}

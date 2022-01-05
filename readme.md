@@ -5,7 +5,7 @@
 ## Стартовый проект frontend-kit :fire:
 :earth_asia: Cайт : http://codbox.ru
 
-:boy:   Автор : [ A K ](https://www.instagram.com/webtheory/ "Instagram page")
+:boy:   Автор : [ A K ]
 
 ## Стартовый репозиторий .
 Установка: `npm i`.
